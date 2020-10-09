@@ -1,7 +1,7 @@
 ## Contains all the required information about the CIE Components of 7th semester ISE and other important information
 Idea is to compile the whole online classes experience at one single place.
 
-#### CIE dates and rules 
+### CIE dates and rules 
 Date: 16th, 17th and 19th October. Test will be descriptive, three Qs, any two to be answered.
 
 ### Links to be referred

@@ -21,7 +21,7 @@ Will add the schedule and other useful information as and when it's communicated
 Register for Hacktoberfest 2020 here 👉 https://hacktoberfest.digitalocean.com/ .
 You can use this repository to make pull requests. 4 successfull PR's across the whole github with hacktoberfest tagged repositories will reward you with exciting DEV stuff as part of Hacktoberfest 2020. 🎉🥳
 
-#### NOTE
+#### NOTE:
 I have tried to compile as much information I could find. Please let me know if I've missed out on anything or feel free to give PR's.  
 
 

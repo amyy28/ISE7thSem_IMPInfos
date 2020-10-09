@@ -11,5 +11,7 @@ Date: 16th, 17th and 19th October. Test will be descriptive, three Qs, any two t
 
 ### Other links 
 - Final year project - https://drive.google.com/drive/folders/1fwbGSIE5JrAo3RsvMC3Z-2IJy0ZQtf4b?usp=sharing
+- Upload Proof of Extracurricular - https://drive.google.com/drive/folders/1AdH7AzeoI6MzaT6JDfwD0KCLn704-QYP?usp=sharing
+- Excel sheet for extra-curricular - https://docs.google.com/spreadsheets/d/1nLDZIH8dO6vjZDOxNirP0paWbUXuo14RwyS3Qfvak-o/edit?usp=sharing
 
 Will add the schedule and other useful information as and when it's communicated.

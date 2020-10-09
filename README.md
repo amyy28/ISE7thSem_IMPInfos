@@ -1,4 +1,4 @@
-## Contains all the required information about the CIE Components of 7th semester ISE and other important information
+## Contains all the required information about the CIE Components of 7th semester ISE and other relevant stuff
 Idea is to compile the whole online classes experience at one single place.
 
 ### CIE1 dates and rules 

@@ -4,6 +4,16 @@ Idea is to compile the whole online classes experience at one single place.
 ### CIE1 dates and rules 
 Date: 16th, 17th and 19th October. Test will be descriptive, three Qs, any two to be answered.
 
+### Schedule
+| Date   |      Subject      |  Time |
+|----------|:-------------:|------:|
+| 16th October |  Data Mining | 10.00-11.00 AM |
+| 16th October |    Distributed Computing   | 02.00-03.00 PM |
+| 17th October | Information Security | 10.00-11.00 AM |
+| 17th October | IOT/VR | 02.00-03.00 PM |
+| 19th October |  Cloud Computing | 10.00-11.00 AM |
+| 19th October |  Data Science | 02.00-03.00 PM |
+
 ### Links to be referred
 - Drive link with all materials - https://drive.google.com/drive/folders/1DUJohh7oP3eu-3DpI95BmgMsdEEOpziM?usp=sharing
 - Recorded video lectures - http://103.109.109.110/~ise/7th%20Sem%20ISE/

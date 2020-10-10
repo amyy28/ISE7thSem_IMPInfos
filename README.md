@@ -3,7 +3,7 @@ Idea is to compile the whole online classes experience at one single place.
 
 ### CIE1 dates and rules 
 Date: 16th, 17th and 19th October. Test will be descriptive, three Qs, any two to be answered.
-##### Detailed rules - https://github.com/amyy28/ISE7thSem_IMPInfos/blob/main/ONLINE%2BCIE-TEST-1.PDF
+#### Detailed rules - https://github.com/amyy28/ISE7thSem_IMPInfos/blob/main/ONLINE%2BCIE-TEST-1.PDF
 
 ### Schedule
 | Date   |      Subject      |  Time |

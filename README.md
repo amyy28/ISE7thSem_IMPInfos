@@ -15,6 +15,16 @@ Date: 16th, 17th and 19th October. Test will be descriptive, three Qs, any two t
 | 19th October |  Cloud Computing | 10.00-11.00 AM |
 | 19th October |  Data Science | 02.00-03.00 PM |
 
+### Syllabus
+|  Subject      |  Syllabus |
+|-------------:|------:|
+|  Data Mining | Unit 1 & 2 |
+|  Distributed Computing   | Unit 1&2 |
+| Information Security | Unit 1&2 |
+| IOT/VR | Unit 1 till taught before test |
+|  Cloud Computing | Unit 1 & 2 |
+|  Data Science | Unit 1 & 2 |
+
 ### Links to be referred
 - Drive link with all materials - https://drive.google.com/drive/folders/1DUJohh7oP3eu-3DpI95BmgMsdEEOpziM?usp=sharing
 - Recorded video lectures - http://103.109.109.110/~ise/7th%20Sem%20ISE/

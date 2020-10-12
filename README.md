@@ -21,7 +21,7 @@ Date: 16th, 17th and 19th October. Test will be descriptive, three Qs, any two t
 |  Data Mining | Unit 1 & 2 |
 |  Distributed Computing   | Unit 1&2 |
 | Information Security | Unit 1&2 |
-| VR | Unit 1 till taught before test |
+| VR | Unit 1 and half |
 |  Cloud Computing | Unit 1 & 2 |
 |  Data Science | Unit 1 & 2 |
 

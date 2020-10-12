@@ -30,6 +30,7 @@ Date: 16th, 17th and 19th October. Test will be descriptive, three Qs, any two t
 - Recorded video lectures - http://103.109.109.110/~ise/7th%20Sem%20ISE/
 - DC notes sent by Shruthi ma'am - https://drive.google.com/file/d/1w5x5nUNMeGh6Fsdfyvvji2E-ZmZ8Fk5d/view?usp=sharing
 - Cloud computing RCIS tutorial - https://www.slideserve.com/indra/cloud-computing-rcis-tutorial
+- Notes for IOT - http://speed.cis.nctu.edu.tw/~ydlin/course/cn/iot/iot.html
 
 ### Other links 
 - Final year project - https://drive.google.com/drive/folders/1fwbGSIE5JrAo3RsvMC3Z-2IJy0ZQtf4b?usp=sharing

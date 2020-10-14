@@ -32,6 +32,7 @@ Date: 16th, 17th and 19th October. Test will be descriptive, three Qs, any two t
 - DC notes sent by Shruthi ma'am - https://drive.google.com/file/d/1w5x5nUNMeGh6Fsdfyvvji2E-ZmZ8Fk5d/view?usp=sharing
 - Cloud computing RCIS tutorial - https://www.slideserve.com/indra/cloud-computing-rcis-tutorial
 - Notes for IOT - http://speed.cis.nctu.edu.tw/~ydlin/course/cn/iot/iot.html
+- DC Slides - http://www.cs.utah.edu/~mhall/cs4961f10/#books
 
 ### Other links 
 - Final year project - https://drive.google.com/drive/folders/1fwbGSIE5JrAo3RsvMC3Z-2IJy0ZQtf4b?usp=sharing

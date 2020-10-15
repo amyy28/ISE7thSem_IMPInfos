@@ -28,6 +28,7 @@ Date: 16th, 17th and 19th October. Test will be descriptive, three Qs, any two t
 
 ### Links to be referred
 - Drive link with all materials - https://drive.google.com/drive/folders/1DUJohh7oP3eu-3DpI95BmgMsdEEOpziM?usp=sharing
+- Question Papers - https://drive.google.com/drive/folders/1ac2F--EBCtoTt2U_Q_h5h-kydyKbofz3
 - Recorded video lectures - http://103.109.109.110/~ise/7th%20Sem%20ISE/
 - DC notes sent by Shruthi ma'am - https://drive.google.com/file/d/1w5x5nUNMeGh6Fsdfyvvji2E-ZmZ8Fk5d/view?usp=sharing
 - Cloud computing RCIS tutorial - https://www.slideserve.com/indra/cloud-computing-rcis-tutorial

@@ -40,10 +40,6 @@ Date: 16th, 17th and 19th October. Test will be descriptive, three Qs, any two t
 - Upload Proof of Extracurricular - https://drive.google.com/drive/folders/1AdH7AzeoI6MzaT6JDfwD0KCLn704-QYP?usp=sharing
 - Excel sheet for extra-curricular - https://docs.google.com/spreadsheets/d/1nLDZIH8dO6vjZDOxNirP0paWbUXuo14RwyS3Qfvak-o/edit?usp=sharing
 
-#### Wanna grab a tshirt and exciting stickers?
-Register for Hacktoberfest 2020 here 👉 https://hacktoberfest.digitalocean.com/ .
-You can use this repository to make pull requests. 4 successfull PR's across the whole github with hacktoberfest tagged repositories will reward you with exciting DEV stuff as part of Hacktoberfest 2020. 🎉
-
 #### NOTE:
 I have tried to compile as much information I could find. Please let me know if I've missed out on anything or feel free to give PR's.  
 

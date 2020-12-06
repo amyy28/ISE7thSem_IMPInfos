@@ -8,12 +8,12 @@ Date: 9th, 10th and 11th October. Test will be descriptive, three Qs, any two to
 ### Schedule
 | Date   |      Subject      |  Time |
 |----------|:-------------:|------:|
-| 16th October |  Data Mining | 12.00-01.00 PM |
-| 16th October |    Distributed Computing   | 04.30-05.30 PM |
-| 17th October | Information Security | 12.00-01.00 PM |
-| 17th October | IOT/VR | 04.30-05.30 PM |
-| 19th October |  Cloud Computing | 12.00-01.00 PM |
-| 19th October |  Data Science | 04.30-05.30 PM |
+| 9th October |  Data Mining | 12.00-01.00 PM |
+| 9th October |    Distributed Computing   | 04.30-05.30 PM |
+| 10th October | Information Security | 12.00-01.00 PM |
+| 10th October | IOT/VR | 04.30-05.30 PM |
+| 11th October |  Cloud Computing | 12.00-01.00 PM |
+| 11th October |  Data Science | 04.30-05.30 PM |
 
 ### Syllabus
 |  Subject      |  Syllabus |
@@ -34,7 +34,7 @@ Date: 9th, 10th and 11th October. Test will be descriptive, three Qs, any two to
 - Notes for IOT - http://speed.cis.nctu.edu.tw/~ydlin/course/cn/iot/iot.html
 - DC Slides - http://www.cs.utah.edu/~mhall/cs4961f10/#books
 
-### Other links 
+### Other important links 
 - Final year project - https://drive.google.com/drive/folders/1fwbGSIE5JrAo3RsvMC3Z-2IJy0ZQtf4b?usp=sharing
 - Upload Proof of Extracurricular - https://drive.google.com/drive/folders/1AdH7AzeoI6MzaT6JDfwD0KCLn704-QYP?usp=sharing
 - Excel sheet for extra-curricular - https://docs.google.com/spreadsheets/d/1nLDZIH8dO6vjZDOxNirP0paWbUXuo14RwyS3Qfvak-o/edit?usp=sharing

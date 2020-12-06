@@ -1,7 +1,7 @@
 ## Contains all the required information about the CIE Components of 7th semester ISE and other relevant stuff
 Idea is to compile the whole online classes experience at one single place.
 
-### CIE1 dates and rules 
+### CIE2 dates and rules 
 Date: 9th, 10th and 11th October. Test will be descriptive, three Qs, any two to be answered.
 #### Academic curriculum [here](https://msrit-bucket.s3-us-west-2.amazonaws.com/Departments/ISE/Syllabus/ISE-UG-Syllabus-7%268-2020-21.pdf)
 

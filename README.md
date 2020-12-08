@@ -18,19 +18,19 @@ Date: 9th, 10th and 11th October. Test will be descriptive, three Qs, any two to
 ### Syllabus
 |  Subject      |  Syllabus |
 |-------------:|------:|
-|  Data Mining | Unit 1 & 2 |
-|  Distributed Computing   | Unit 1&2 |
-| Information Security | Unit 1&2 |
-| VR | Unit 1 and half |
-|  Cloud Computing | Unit 1 & 2 |
-|  Data Science | Unit 1 & 2 |
+|  Data Mining | Unit 3 full & Till k-means in 4th unit |
+|  Distributed Computing   | Unit 3&4 |
+| Information Security | Unit 3&4 |
+| VR | Unit 3&4 |
+|  Cloud Computing | Upto automatic performance managers |
+|  Data Science | Unit 3&4 |
 
 ### Links to be referred
 - Drive link with all materials - https://drive.google.com/drive/folders/1DUJohh7oP3eu-3DpI95BmgMsdEEOpziM?usp=sharing
 - Question Papers - https://drive.google.com/drive/folders/1ac2F--EBCtoTt2U_Q_h5h-kydyKbofz3
 - Recorded video lectures - http://103.109.109.110/~ise/7th%20Sem%20ISE/
 - DC notes sent by Shruthi ma'am - https://drive.google.com/file/d/1w5x5nUNMeGh6Fsdfyvvji2E-ZmZ8Fk5d/view?usp=sharing
-- Cloud computing RCIS tutorial - https://www.slideserve.com/indra/cloud-computing-rcis-tutorial
+- Textbook link for 4th unit DM - https://mitmecsept.files.wordpress.com/2017/04/data-mining-concepts-and-techniques-2nd-edition-impressao.pdf
 - Notes for IOT - http://speed.cis.nctu.edu.tw/~ydlin/course/cn/iot/iot.html
 - DC Slides - http://www.cs.utah.edu/~mhall/cs4961f10/#books
 

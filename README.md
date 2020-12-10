@@ -8,12 +8,12 @@ Date: 9th, 10th and 11th October. Test will be descriptive, three Qs, any two to
 ### Schedule
 | Date   |      Subject      |  Time |
 |----------|:-------------:|------:|
-| 9th October |  Data Mining | 12.00-01.00 PM |
-| 9th October |    Distributed Computing   | 04.30-05.30 PM |
-| 10th October | Information Security | 12.00-01.00 PM |
-| 10th October | IOT/VR | 04.30-05.30 PM |
-| 11th October |  Cloud Computing | 12.00-01.00 PM |
-| 11th October |  Data Science | 04.30-05.30 PM |
+| 9th December |  Data Mining | 12.00-01.00 PM |
+| 9th December |    Distributed Computing   | 04.30-05.30 PM |
+| 10th December | Information Security | 12.00-01.00 PM |
+| 10th December | IOT/VR | 04.30-05.30 PM |
+| 11th December |  Cloud Computing | 12.00-01.00 PM |
+| 11th December |  Data Science | 04.30-05.30 PM |
 
 ### Syllabus
 |  Subject      |  Syllabus |
